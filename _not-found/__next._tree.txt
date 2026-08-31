@@ -1,2 +1,2 @@
-:HL["/micro-robotics-pages/_next/static/chunks/0p7u4qyv-01l7.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"1V-cwUcrnoDKvCVJHjTBO"}
+:HL["/micro-robotics-pages/_next/static/chunks/0__f6dzxc2zgq.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"h9I_ppSP_Evtks-lcjV8M"}
