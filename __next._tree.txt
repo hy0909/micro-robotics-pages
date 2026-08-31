@@ -1,3 +1,4 @@
-:HL["/micro-robotics-pages/_next/static/chunks/1258a.c5ctwtj.css","style"]
+:HL["/micro-robotics-pages/_next/static/chunks/04y~vvz09ihfc.css","style"]
+:HL["/micro-robotics-pages/_next/static/media/D2Coding_1_3_3_latin-s.p.03g5p4c7xmxsh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/micro-robotics-pages/_next/static/media/c9bd7381a27f2960-s.p.0nt9ayxdmqydo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"4p3A9OwiR7dm5T7P4xD61"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"OtTwdqy1AIP70u-qWiaAg"}
