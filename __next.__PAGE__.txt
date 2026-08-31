@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[7934,["/micro-robotics-pages/_next/static/chunks/0b-.ij0mqhtov.js","/micro-robotics-pages/_next/static/chunks/17f2ht9wo-phb.js"],"ClientPageRoot"]
-3:I[31713,["/micro-robotics-pages/_next/static/chunks/0b-.ij0mqhtov.js","/micro-robotics-pages/_next/static/chunks/17f2ht9wo-phb.js","/micro-robotics-pages/_next/static/chunks/14bt7b.y-mpcy.js"],"default"]
+3:I[31713,["/micro-robotics-pages/_next/static/chunks/0b-.ij0mqhtov.js","/micro-robotics-pages/_next/static/chunks/17f2ht9wo-phb.js","/micro-robotics-pages/_next/static/chunks/0m5vrdhdse89r.js"],"default"]
 6:I[77916,["/micro-robotics-pages/_next/static/chunks/0b-.ij0mqhtov.js","/micro-robotics-pages/_next/static/chunks/17f2ht9wo-phb.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/micro-robotics-pages/_next/static/chunks/14bt7b.y-mpcy.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"5HfKvXcHVuyFWy-Pz6zhH"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/micro-robotics-pages/_next/static/chunks/0m5vrdhdse89r.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"J2Mo-QStYmG50Xx1OlH3o"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
